@@ -1,6 +1,5 @@
 name: Daily Commit Automation
 
-# Run daily at 02:30 UTC
 on:
   schedule:
     - cron: "30 2 * * *"
